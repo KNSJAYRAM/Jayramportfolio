@@ -36,6 +36,9 @@ function App() {
 
         />
       </div>
+      <footer>
+        <p>Contact me: 987654321 | jayaramk@gmail.com</p>
+      </footer>
     </div>
   );
 }
